@@ -1,0 +1,150 @@
+{
+    "places":[
+        {
+        "id": "1",
+        "title": "Maasai Mara",
+        "image": "https://www.google.com/imgres?q=maasai%20mara&imgurl=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.micato.com%2Fwp-content%2Fuploads%2F2018%2F09%2F07223907%2Fmaasai-mara.jpg&imgrefurl=https%3A%2F%2Fwww.micato.com%2Fafrica-region-destination%2Fthe-maasai-mara-game-reserves%2F&docid=2FoqK_LZ08bSbM&tbnid=0RyA8doYnxcV4M&vet=12ahUKEwiXzb307sWUAxVI2QIHHVSgI4MQnPAOegQIGhAB..i&w=2220&h=1400&hcb=2&ved=2ahUKEwiXzb307sWUAxVI2QIHHVSgI4MQnPAOegQIGhAB",
+        "description": "It is Kenyas most famous safari destination and is globally known for the great migration of wild beasts and rich wildlife population .The reserve offers breath taking landscapes and unforgettable encounters with the big 5 . Tourists can enjoy game drives, hot air baloon rides , wildlife photograpy, camping and cultural visits."
+        },
+
+         {
+        "id": "2",
+        "title": "Tsavo National Park",
+        "image": "https://www.google.com/imgres?q=tsavo%20national%20park&imgurl=https%3A%2F%2Fimgix.brilliant-africa.com%2FTsavo-Elephants-Banner.jpg%3Fauto%3Dformat%2Cenhance%2Ccompress%26fit%3Dcrop%26crop%3Dentropy%2Cfaces%2Cfocalpoint%26w%3D0%26h%3D288%26q%3D60&imgrefurl=https%3A%2F%2Fwww.brilliant-africa.com%2Fkenya%2Ftsavo-west-national-park&docid=qxXNbD6bFnZPlM&tbnid=qHtie-69_BfZqM&vet=12ahUKEwjZ5KiG7sWUAxXR2QIHHS1PPYMQnPAOegQIIxAB..i&w=579&h=288&hcb=2&ved=2ahUKEwjZ5KiG7sWUAxXR2QIHHS1PPYMQnPAOegQIIxAB",
+        "description": "Being one of the largest wildlife parks in Africa,it is famous for its red elephants, rugged landscapes and rich bio diversity.  It features unidue attractions as well as adventurous safari experiences in both Tsavo East and West.Tourists can engage in game drives, bird watching, hiking, camping and guided nature walks."
+        },
+
+         {
+        "id": "3",
+        "title": "Ol Pejeta Conservancy",
+        "image": "https://www.google.com/imgres?q=ol%20pejeta%20conservancy&imgurl=https%3A%2F%2Fbeyondkenyasafaris.com%2Fwp-content%2Fuploads%2Frhino-safari-sanctuary-tambarare-laikipia-kenya.webp&imgrefurl=https%3A%2F%2Fbeyondkenyasafaris.com%2Fplaces-to-visit%2Flaikipiakenya%2Fol-pejeta-conservancy-2%2F&docid=8ijO8BSBZ8ROnM&tbnid=8nQfIeFVwQnMCM&vet=12ahUKEwiCxeuC78WUAxWA9wIHHXDCHo4QnPAOegQIFxAB..i&w=1800&h=900&hcb=2&itg=1&ved=2ahUKEwiCxeuC78WUAxWA9wIHHXDCHo4QnPAOegQIFxAB",
+        "description": "Ol Pejeta Conservance is a leading wildlife concervancy dedicated to Rhino concervation and sustainable tourism. It offfers close wildlife encounters and unique safari experiences in a peaceful environment. Visitors can participate in rhino traccing , game drives, chimpanzee sanctuary tours , cycling safaris, horse riding and bush camping."
+        },
+
+         {
+        "id": "4",
+        "title": "Diani Beach",
+        "image": "https://www.google.com/imgres?q=diani%20beach&imgurl=https%3A%2F%2Fexperiyatourcompany.com%2Fwp-content%2Fuploads%2F2025%2F11%2FHow-do-I-get-from-Nairobi-to-Diani-Beach-1.webp&imgrefurl=https%3A%2F%2Fexperiyatourcompany.com%2Fhow-do-i-get-from-nairobi-to-diani-beach%2F&docid=AbCEdMVKjr7PMM&tbnid=J4e9sUcngyhfOM&vet=12ahUKEwiEiZuv78WUAxXcywIHHcAYJlkQnPAOegQIaBAB..i&w=680&h=480&hcb=2&ved=2ahUKEwiEiZuv78WUAxXcywIHHcAYJlkQnPAOegQIaBAB",
+        "description": "It is one of Kenyas most popular coastal destinations, famous for its white sandy beaches , crystal clear watters, and relaxing tropical atmosphere. The beach offers visitors both luxury and adventure making it perfect for vacations and romantic getaways. Popular activities include snorkeling, scuba diving , camel riding, jet skiing, sky diving, dolphin tours and sunset boat cruises."
+        },
+
+         {
+        "id": "5",
+        "title": "Lake Nakuru National Park",
+        "image": "https://www.google.com/imgres?q=lake%20nakuru%20national%20park&imgurl=https%3A%2F%2Fimages.goway.com%2Fproduction%2Ffeatured_images%2FBuffalo-lying-in-the-water-on-the-background-of-big-flocks-of-flamingos.-Kenya.-Africa.-Nakuru-National-Park%2520_iStock-666380546.jpg%3FVersionId%3DcKQIIm26Q.vH9XwykxYMzt1qswboWvrI&imgrefurl=https%3A%2F%2Fwww.goway.com%2Finspiration%2Fflamingos-galore-and-more-in-lake-nakuru-national-park-kenya&docid=03wo-D49kOhUUM&tbnid=h586VpR2wcLpfM&vet=12ahUKEwjnvo7V78WUAxVv2gIHHXFhB7EQnPAOegQIZRAB..i&w=1920&h=1080&hcb=2&ved=2ahUKEwjnvo7V78WUAxVv2gIHHXFhB7EQnPAOegQIZRAB",
+        "description": "Famous for its flamingos , rhinos and scenic lakes surroundings located within the rift valley , the park is rich in wildlife and offers breathtaking landscapes ideal for nature lovers and photographers.Activities offered include game drives, bird watching, wildlife photography , picnic excursions and nature viewing."
+        },
+
+         {
+        "id": "6",
+        "title": "Lake Victoria",
+        "image": "https://www.google.com/imgres?q=lake%20victoria&imgurl=https%3A%2F%2Fwww.meda.org%2Fwp-content%2Fuploads%2F2024%2F03%2FAQ-3.jpg&imgrefurl=https%3A%2F%2Fwww.meda.org%2Fnews%2Fblog%2Fwomen-at-the-helm-reshaping-kenyas-aquaculture-industry-on-lake-victoria%2F&docid=lf9xQkpeTdTiNM&tbnid=BqXpBhwmRgm0jM&vet=12ahUKEwij2aWB8MWUAxVmQ6QEHT1oNfE4FBCc8A56BAhPEAE..i&w=1280&h=575&hcb=2&ved=2ahUKEwij2aWB8MWUAxVmQ6QEHT1oNfE4FBCc8A56BAhPEAE",
+        "description": "Africas largest freshwater lake is a breathtaking destination located in western kenya and closely connected to the vibrant city of Kisumu. The lake is known for its beautiful sunsets, rich fishing culture, diverse birdlife and relaxing lakeside atmosphere that attracts both local and international tourists. Tourists can explore nearby islands , experience luo cultural traditions , enjoy fresh sea food while taking in scenic views, take boat rides, go on fishing tours and engage in hippo spottin"
+        },
+
+         {
+        "id": "7",
+        "title": "Mt Kenya",
+        "image": "https://www.google.com/imgres?q=mt%20kenya&imgurl=https%3A%2F%2Fsafarifrank.com%2Fwp-content%2Fuploads%2F2019%2F06%2FCamp-site-Teleki-1-of-1.jpg&imgrefurl=https%3A%2F%2Fsafarifrank.com%2Fadventures%2Ftrekking-mt-kenya%2F&docid=e0g8yP5BcDbI9M&tbnid=W4R1X7ftawvzPM&vet=12ahUKEwju2fmN8MWUAxWD8AIHHZZXCBMQnPAOegQIFxAB..i&w=2048&h=1536&hcb=2&ved=2ahUKEwju2fmN8MWUAxWD8AIHHZZXCBMQnPAOegQIFxAB",
+        "description": "Being Africas second highest mountain and a major destination for hiking and adventure tourism , the mountain features glatious forests , waterfalls, and diverse wildlife, attracting climbers and nature enthisiasts from arround the world.Popular activities include, mountain climbing, trekking, camping, rock climbing, wildlife viewing and photography."
+        },
+
+         {
+        "id": "8",
+        "title": "Lake Elementaita",
+        "image": "https://www.google.com/imgres?q=lake%20elementaita&imgurl=https%3A%2F%2Fmedia.tacdn.com%2Fmedia%2Fattractions-splice-spp-674x446%2F09%2Fb9%2F39%2F3b.jpg&imgrefurl=https%3A%2F%2Fwww.viator.com%2Ftours%2FNairobi%2FLake-Elementaita-Guided-Flamingoes-Day-Tour-from-Nairobi%2Fd5280-21143P97&docid=aRd4br1wPs-TxM&tbnid=0yfc0H6kbZMdwM&vet=12ahUKEwiJz-vE8MWUAxUw0wIHHZYvHMUQnPAOegQIHhAB..i&w=670&h=446&hcb=2&ved=2ahUKEwiJz-vE8MWUAxUw0wIHHZYvHMUQnPAOegQIHhAB",
+        "description": "Lake Elementaita is a beautiful soda lake in the rift valley known for its peaceful scenery, flamingos and surrounding wildlife. The like is a perfect destination for nature lovers seeking relaxation and outdoor experiences . Tourists can enjoy bird watching, photography, camping, nature walks and wildlife viewing."
+        },
+
+         {
+        "id": "9",
+        "title": "Gedi Ruins",
+        "image": "https://www.google.com/imgres?q=gedi%20ruins&imgurl=https%3A%2F%2Fi0.wp.com%2Fthinkafrica.net%2Fwp-content%2Fuploads%2F2018%2F10%2Fgedi-02.jpg%3Fresize%3D700%252C525%26ssl%3D1&imgrefurl=https%3A%2F%2Fthinkafrica.net%2Frunning-water-in-the-14th-century-gedi-kenya%2F&docid=kMzM8BanNl99xM&tbnid=6AMQ8gxwj0l6yM&vet=12ahUKEwj9jMTV8MWUAxVnxQIHHVVqPHsQnPAOegQIZhAB..i&w=700&h=525&hcb=2&ved=2ahUKEwj9jMTV8MWUAxVnxQIHHVVqPHsQnPAOegQIZhAB",
+        "description": "It is and ancient swahili settlement hidden within a forest near Malindi , offering visitors a glimpse into Kenyas rich historical and cultural heritage. The ruins feature old mosques , houses and places dating back centuries."
+        },
+
+         {
+        "id": "10",
+        "title": "Samburu National Reserve",
+        "image": "https://www.google.com/imgres?q=samburu%20national%20reserve&imgurl=https%3A%2F%2Flookaside.instagram.com%2Fseo%2Fgoogle_widget%2Fcrawler%2F%3Fmedia_id%3D3894725369387915624&imgrefurl=https%3A%2F%2Fwww.instagram.com%2Fp%2FDYM3Vv_l2Ns%2F&docid=jbKlvSbc9EH7kM&tbnid=QLUBExSMVQkBIM&vet=12ahUKEwjSvqjt8MWUAxVc9wIHHbzaEMEQnPAOegUIgwEQAQ..i&w=3024&h=3780&hcb=2&itg=1&ved=2ahUKEwjSvqjt8MWUAxVc9wIHHbzaEMEQnPAOegUIgwEQAQ",
+        "description": "Located in the Nothern part of Kenya, it is known for its rare animal species and rich samburu cluture . The reserves dry landscapes and river eco systems create an exciting safari environment for visitors.Activities offered include game drives, cultural tours , bird watching , nature walks and wildlife photography."
+        },
+
+         {
+        "id": "11",
+        "title": "Mida Creek",
+        "image": "https://www.google.com/imgres?q=mida%20creek&imgurl=https%3A%2F%2Fafricanspicesafaris.com%2Fwp-content%2Fuploads%2F2020%2F06%2Fmida-creek-mombasa-tour-1200x720.jpg&imgrefurl=https%3A%2F%2Fafricanspicesafaris.com%2Ftour%2Fmida-creek-gedi-ruins-mombasa-1-day-tour%2F&docid=HSOFfhRptn47SM&tbnid=m5P2Fs0L9oVXCM&vet=12ahUKEwjK4d6X8cWUAxWW1wIHHRHOLZEQnPAOegQIYRAB..i&w=1200&h=720&hcb=2&ved=2ahUKEwjK4d6X8cWUAxWW1wIHHRHOLZEQnPAOegQIYRAB",
+        "description": "Mida Creek is a scenic tidal creek near watamu surrounded by mangroove forests and rich marine bio diversiry. The area provides a calm and eco friendly environment ideal for nature lovers and adventure seekers. "
+        },
+
+         {
+        "id": "12",
+        "title": "Lamu Isalnd",
+        "image": "https://www.google.com/imgres?q=lamu%20island&imgurl=https%3A%2F%2Fwww.telegraph.co.uk%2Fcontent%2Fdam%2FTravel%2Fhotels%2Fafrica%2Fkenya%2Flamu-island-getty.jpg%3Fimpolicy%3DTwitter-Standard&imgrefurl=https%3A%2F%2Fwww.telegraph.co.uk%2Ftravel%2Fdestinations%2Fafrica%2Fkenya%2Fgalleries%2Fthe-best-hotels-on-lamu-island%2F&docid=wOWxiDexgqfFeM&tbnid=esYKp8TwvWYI9M&vet=12ahUKEwjLmqe28cWUAxXxnf0HHSbNJfEQnPAOegQIPBAB..i&w=1280&h=720&hcb=2&ved=2ahUKEwjLmqe28cWUAxXxnf0HHSbNJfEQnPAOegQIPBAB",
+        "description": "Lamu Island is a charming coastal destination famous for its rich Swahili culture, historic architecture and stunning sandy beaches. The island provides a calm and traditional atmosphere where visitors can experience centuries-old heritage and beautiful ocean scenery. Popular activities include dhow sailing, cultural tours, beach walks, swimming, shopping at local markets and enjoying Swahili cuisine."
+        },
+
+         {
+        "id": "13",
+        "title": "Naboisho Conservancy",
+        "image": "https://www.google.com/imgres?q=naboisho%20concervancy&imgurl=https%3A%2F%2Factsafrica.com%2Fwordpress%2Fwp-content%2Fuploads%2F2018%2F07%2FPicture2-800x600.png&imgrefurl=https%3A%2F%2Factsafrica.com%2Ftour-item%2Fmara-naboisho-safari%2F&docid=Hv_SW1JELsixKM&tbnid=LR0Zs5pNZ0jIqM&vet=12ahUKEwj-_bfU8cWUAxXR1QIHHYHnICsQnPAOegQIWxAB..i&w=800&h=600&hcb=2&ved=2ahUKEwj-_bfU8cWUAxXR1QIHHYHnICsQnPAOegQIWxAB",
+        "description": "Naboisho Conservancy is a breathtaking wildlife conservancy located near the Maasai Mara, well known for its abundant wildlife, peaceful landscapes and luxury safari experiences. The conservancy creates a perfect environment for visitors seeking close encounters with nature and authentic cultural experiences. Activities available include game drives, bird watching, guided nature walks, night safaris and Maasai cultural visits."
+        },
+
+         {
+        "id": "14",
+        "title": "Lake Turkana",
+        "image": "https://www.google.com/imgres?q=lake%20turkana&imgurl=https%3A%2F%2Fissafrica.s3.amazonaws.com%2Fsite%2Fimages%2Fbanners%2F2022-08-29-iss-today-lake-turkana-banner.jpg&imgrefurl=https%3A%2F%2Fissafrica.org%2Fiss-today%2Flake-turkanas-entire-tilapia-species-threatened-by-smuggling&docid=IUXGqilGOLb3HM&tbnid=y5mzYbv2wPYC-M&vet=12ahUKEwjzk4nu8cWUAxVZ0wIHHZcPLp0QnPAOegQIfxAB..i&w=1200&h=512&hcb=2&ved=2ahUKEwjzk4nu8cWUAxVZ0wIHHZcPLp0QnPAOegQIfxAB",
+        "description": "Lake Turkana is a remarkable desert lake celebrated for its striking blue waters, volcanic scenery and fascinating cultural heritage. The area offers a unique and adventurous environment ideal for travelers interested in nature, history and exploration. Visitors can take part in activities such as boat rides, fishing, camping, bird watching, cultural tours and exploring nearby islands and national parks"
+        },
+         {
+        "id": "15",
+        "title": "Hells Gate",
+        "image": "https://www.google.com/imgres?q=hells%20gate&imgurl=https%3A%2F%2Fthumbs.dreamstime.com%2Fb%2Fhell-s-gate-kenya-africa-march-72428105.jpg&imgrefurl=https%3A%2F%2Fwww.dreamstime.com%2Fphotos-images%2Fhells-gate-national-park-kenya.html&docid=negiYXteRXeAoM&tbnid=ce9m7WfqdjwH1M&vet=12ahUKEwjIw9OP8sWUAxXVOPsDHbYHBvE4ChCc8A56BAhAEAE..i&w=800&h=534&hcb=2&ved=2ahUKEwjIw9OP8sWUAxXVOPsDHbYHBvE4ChCc8A56BAhAEAE",
+        "description": "Hells Gate National Park is an exciting natural attraction famous for its towering cliffs, deep gorges, geothermal activity and diverse wildlife. The park provides an adventurous outdoor experience where visitors can explore dramatic landscapes up close. Popular activities include cycling, hiking, rock climbing, wildlife viewing, camping and visiting the nearby geothermal spa."
+        }
+    ],
+
+    "reviews" : [
+        {
+            "id": "",
+            "name": "",
+            "image":"",
+            "location":"",
+            "review":""
+        },
+
+           {
+            "id": "",
+            "name": "",
+            "image":"",
+            "location":"",
+            "review":""
+        },
+
+           {
+            "id": "",
+            "name": "",
+            "image":"",
+            "location":"",
+            "review":""
+        },
+
+           {
+            "id": "",
+            "name": "",
+            "image":"",
+            "location":"",
+            "review":""
+        },
+
+           {
+            "id": "",
+            "name": "",
+            "image":"",
+            "location":"",
+            "review":""
+        }
+    ]
+    
+}
